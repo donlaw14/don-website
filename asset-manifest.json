@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/don-website/static/css/main.1a2a9fcf.chunk.css",
-    "main.js": "/don-website/static/js/main.cf334653.chunk.js",
-    "main.js.map": "/don-website/static/js/main.cf334653.chunk.js.map",
+    "main.js": "/don-website/static/js/main.6d9b9b1a.chunk.js",
+    "main.js.map": "/don-website/static/js/main.6d9b9b1a.chunk.js.map",
     "runtime-main.js": "/don-website/static/js/runtime-main.22099586.js",
     "runtime-main.js.map": "/don-website/static/js/runtime-main.22099586.js.map",
     "static/css/2.0d7c944a.chunk.css": "/don-website/static/css/2.0d7c944a.chunk.css",
@@ -14,17 +14,15 @@
     "static/css/2.0d7c944a.chunk.css.map": "/don-website/static/css/2.0d7c944a.chunk.css.map",
     "static/css/main.1a2a9fcf.chunk.css.map": "/don-website/static/css/main.1a2a9fcf.chunk.css.map",
     "static/js/2.7e554852.chunk.js.LICENSE.txt": "/don-website/static/js/2.7e554852.chunk.js.LICENSE.txt",
-    "static/media/aphroditeLogo.e89c8877.png": "/don-website/static/media/aphroditeLogo.e89c8877.png",
     "static/media/donImg.a7923729.jpg": "/don-website/static/media/donImg.a7923729.jpg",
     "static/media/donImg1.06ed2cf1.jpg": "/don-website/static/media/donImg1.06ed2cf1.jpg",
-    "static/media/mtsLogo.252a1460.png": "/don-website/static/media/mtsLogo.252a1460.png",
-    "static/media/nusEnablersLogo.08f11d5d.png": "/don-website/static/media/nusEnablersLogo.08f11d5d.png"
+    "static/media/efgLogo.db2a1751.png": "/don-website/static/media/efgLogo.db2a1751.png"
   },
   "entrypoints": [
     "static/js/runtime-main.22099586.js",
     "static/css/2.0d7c944a.chunk.css",
     "static/js/2.7e554852.chunk.js",
     "static/css/main.1a2a9fcf.chunk.css",
-    "static/js/main.cf334653.chunk.js"
+    "static/js/main.6d9b9b1a.chunk.js"
   ]
 }
