@@ -2,7 +2,7 @@
   "name": "my_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://donlaw14.github.io/don-website/",
+  "homepage": "https://donlaw14.github.io/don-website",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@testing-library/jest-dom": "^5.11.4",
